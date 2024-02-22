@@ -4,4 +4,10 @@
   IIS server visual studio, tako da nema potrebe podešavati lokalni IIS na windowsu.
 
 Trenutno Login sistem nije u potpunoj funkciji
+
+
+
+
+
+Nove izmjena sa Ubuntua
    
